@@ -1,0 +1,16 @@
+.logo {
+  border: 0;
+  border-radius: 100%;
+  width: 15vw;
+  height: 15vh;
+  background-image: linear-gradient(to right, #c05bff 0%, #82adf6 100%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.brain {
+  height: 50px;
+  width: 50px;
+  border-radius: 100%;
+}
